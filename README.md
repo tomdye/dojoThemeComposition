@@ -6,5 +6,5 @@
 
 ## run
 
-- `dojo build -e`
+- `dojo build -w`
 - serve `localhost:9999`
