@@ -1,0 +1,32 @@
+.root {
+}
+
+.rootFixed {
+	display: inline-block;
+	text-align: center;
+}
+
+.label {
+	margin-bottom: 10px;
+}
+
+.labelFixed {
+	display: block;
+}
+
+.text {
+
+}
+
+.textFixed {
+	text-transform: uppercase;
+}
+
+.button {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.buttonFixed {
+
+}

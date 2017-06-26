@@ -1,0 +1,10 @@
+@import '../base/variables.css';
+
+.root {
+	background: #eee;
+}
+
+.button {
+	color: #3c3c3c;
+	background: var(--primary);
+}

@@ -1,0 +1,17 @@
+.root {
+	composes: root from '../base/helloWorld.m.css';
+	background: #3d3d3d;
+	color: #eee;
+}
+
+.text {
+	color: #3d3d3d;
+}
+
+.button {
+	composes: button from '../base/helloWorld.m.css';
+}
+
+.root .button {
+	border-color: #eee;
+}
